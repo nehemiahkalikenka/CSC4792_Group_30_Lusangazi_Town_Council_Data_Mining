@@ -24,4 +24,16 @@ The project curates four primary pipe-delimited CSV datasets:
 ## Data Availability
 * **Kaggle Dataset:** [View on Kaggle](https://www.kaggle.com/datasets/gubasiachalinga/lusangazi-town-council-dataset)
 * **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+---
+
+## Links & Project Deliverables
+
+* **Google Colab Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nehemiahkalikenka/CSC4792_Group_30_Lusangazi_Town_Council_Data_Mining/blob/main/CSC4792-Group-30-Lusangazi-Town-Council-Data-Mining.ipynb)
+* **Kaggle Public Dataset:** [Lusangazi Town Council Dataset on Kaggle](https://www.kaggle.com/datasets/gubasiachalinga/lusangazi-town-council-dataset)
+
+### Raw CSV Data Links
+* [`db-unza26-csc4792-lusangazi_cdf_projects.csv`](https://raw.githubusercontent.com/nehemiahkalikenka/CSC4792_Group_30_Lusangazi_Town_Council_Data_Mining/refs/heads/main/db-unza26-csc4792-lusangazi_cdf_projects.csv)
+* [`db-unza26-csc4792-lusangazi_council_documents.csv`](https://raw.githubusercontent.com/nehemiahkalikenka/CSC4792_Group_30_Lusangazi_Town_Council_Data_Mining/refs/heads/main/db-unza26-csc4792-lusangazi_council_documents.csv)
+* [`db-unza26-csc4792-lusangazi_wards_wdc.csv`](https://raw.githubusercontent.com/nehemiahkalikenka/CSC4792_Group_30_Lusangazi_Town_Council_Data_Mining/refs/heads/main/db-unza26-csc4792-lusangazi_wards_wdc.csv)
+* [`db-unza26-csc4792-lusangazi_administration.csv`](https://raw.githubusercontent.com/nehemiahkalikenka/CSC4792_Group_30_Lusangazi_Town_Council_Data_Mining/refs/heads/main/db-unza26-csc4792-lusangazi_administration.csv)
 
