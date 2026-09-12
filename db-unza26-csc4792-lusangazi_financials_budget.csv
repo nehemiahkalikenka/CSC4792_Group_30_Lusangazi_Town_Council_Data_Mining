@@ -1,0 +1,54 @@
+financial_id|council_name|financial_year|category_code|description|amount|revenue_or_expenditure
+LUS-FIN-001|Lusangazi Town Council|2024|001|Personal levy|10410.0|Revenue
+LUS-FIN-002|Lusangazi Town Council|2024||REVENUE DESCRIPTION|2028.0|Revenue
+LUS-FIN-003|Lusangazi Town Council|2024|002|Survey fees|64152.0|Revenue
+LUS-FIN-004|Lusangazi Town Council|2024|004|Plan scrutiny fee|1750.0|Revenue
+LUS-FIN-005|Lusangazi Town Council|2024|007|Rentals/lease of Council’s properties|202954.0|Revenue
+LUS-FIN-006|Lusangazi Town Council|2024|008|Non-Land Application forms fees|81561.0|Revenue
+LUS-FIN-007|Lusangazi Town Council|2024|010|Sketch plan|14580.0|Revenue
+LUS-FIN-008|Lusangazi Town Council|2024|012|Notice board advert fees|1213.0|Revenue
+LUS-FIN-009|Lusangazi Town Council|2024|013|Market fees|23328.0|Revenue
+LUS-FIN-010|Lusangazi Town Council|2024|017|Affidavit fees|8165.0|Revenue
+LUS-FIN-011|Lusangazi Town Council|2024|020|Hire of halls|13997.0|Revenue
+LUS-FIN-012|Lusangazi Town Council|2024|032|Hire of plant and equipment|676512.0|Revenue
+LUS-FIN-013|Lusangazi Town Council|2024|045|Notice of marriage fees|1458.0|Revenue
+LUS-FIN-014|Lusangazi Town Council|2024|046|Abattoir/meat inspection fees|583.0|Revenue
+LUS-FIN-015|Lusangazi Town Council|2024|047|Registration of clubs and societies|47822.0|Revenue
+LUS-FIN-016|Lusangazi Town Council|2024|051|Farm produce Fee|174960.0|Revenue
+LUS-FIN-017|Lusangazi Town Council|2024|066|Penalties|57737.0|Revenue
+LUS-FIN-018|Lusangazi Town Council|2024|082|Telecommunication site rentals|75816.0|Revenue
+LUS-FIN-019|Lusangazi Town Council|2024|099|Other fees and charges|180792.0|Revenue
+LUS-FIN-020|Lusangazi Town Council|2024|002|Liquor licence|8970.0|Revenue
+LUS-FIN-021|Lusangazi Town Council|2024|003|Firearm and ammunition licence|20995.0|Revenue
+LUS-FIN-022|Lusangazi Town Council|2024|099|Other Licences|1458.0|Revenue
+LUS-FIN-023|Lusangazi Town Council|2024|001|Livestock Movement levy|12451.0|Revenue
+LUS-FIN-024|Lusangazi Town Council|2024|002|Birds levy|117.0|Revenue
+LUS-FIN-025|Lusangazi Town Council|2024|005|Charcoal levy|3499.0|Revenue
+LUS-FIN-026|Lusangazi Town Council|2024|006|Sand levy|1225.0|Revenue
+LUS-FIN-027|Lusangazi Town Council|2024|008|Quarry levy|17496.0|Revenue
+LUS-FIN-028|Lusangazi Town Council|2024|009|Bicycle levy|36787.0|Revenue
+LUS-FIN-029|Lusangazi Town Council|2024|099|Other levies|11139.0|Revenue
+LUS-FIN-030|Lusangazi Town Council|2024|001|Health permits|40824.0|Revenue
+LUS-FIN-031|Lusangazi Town Council|2024|003|Herbalist permit|5832.0|Revenue
+LUS-FIN-032|Lusangazi Town Council|2024|006|Transportation of opaque beer|34992.0|Revenue
+LUS-FIN-033|Lusangazi Town Council|2024|009|Fire certificate|35785.0|Revenue
+LUS-FIN-034|Lusangazi Town Council|2024|010|Extension of Business hours permits|4666.0|Revenue
+LUS-FIN-035|Lusangazi Town Council|2024|011|Social gathering permit|1750.0|Revenue
+LUS-FIN-036|Lusangazi Town Council|2024|001|Service Charges Residential plots|233280.0|Revenue
+LUS-FIN-037|Lusangazi Town Council|2024|002|Service Charges Industrial plots|46656.0|Revenue
+LUS-FIN-038|Lusangazi Town Council|2024|003|Premium Plot- Residential|274104.0|Revenue
+LUS-FIN-039|Lusangazi Town Council|2024|004|Premium Plot Commercial|34992.0|Revenue
+LUS-FIN-040|Lusangazi Town Council|2024|099|Land Charges|58320.0|Revenue
+LUS-FIN-041|Lusangazi Town Council|2024|099|Other Income|2064528.0|Revenue
+LUS-FIN-042|Lusangazi Town Council|2024|001|Constituency Development Fund|46693966.0|Revenue
+LUS-FIN-043|Lusangazi Town Council|2024|002|Roads Grant|7408238.0|Revenue
+LUS-FIN-044|Lusangazi Town Council|2024|003|Health Grant|2366335.0|Revenue
+LUS-FIN-045|Lusangazi Town Council|2024|004|Local Government Equalisation Fund|12482533.0|Revenue
+LUS-FIN-046|Lusangazi Town Council|2024|005|Grants in lieu of Rates|466560.0|Revenue
+LUS-FIN-047|Lusangazi Town Council|2024|099|Other Grants|30157261.0|Revenue
+LUS-FIN-048|Lusangazi Town Council|2024||Constituency Development Local Governance Integrated Development Planning Public health and Environmental protection Housing and Community Amenities Recreation Culture and Religion Education and skills development Public order and safety Management and support Services Resource Mobilisation and Management District Health servcies Transport Services Agricultural Services Fisheries and Livestock Social Protection and Community Development|4.003255030849212e+100|Revenue
+LUS-FIN-049|Lusangazi Town Council|2024||02Use of Goods and Services 02General Operations 03Transfers 01Transfers 04Assets 01Non-Financial Assets (Capital Expenditure) 02Financial Assets|6.7574886757488955e+50|Expenditure
+LUS-FIN-050|Lusangazi Town Council|2024||Community Projects Implemented 01 Number of Solar Water borehole constructed 02 Number of Desks procured 03 Number of Kilometer roads graded 04 Number of maternity suite constructed 05 Number of boreholes rehabilitated 06 Number of classroom blocks rehabilitated 07 Number of classroom blocks constructed 08 Number of Health-Posts constructed|560028220553.0|Expenditure
+LUS-FIN-051|Lusangazi Town Council|2024||Youth and Women Empowered 01 Number of youth clubs accessed empowerment grants 02 Number of youth clubs accessed empowerment loans 03 Number of women clubs accessed empowerment loans 04 Number of women accessed empowerment grants 05 Number of community clubs accessed empowerment loans 06 Number of community clubs accessed empowerment grants|35122814294152.0|Revenue
+LUS-FIN-052|Lusangazi Town Council|2024||CDF Projects Administered 01 Number of Monitoring and Supervision Reports Produced 02 No. of Financial Statements Produced 03 No of CDFC Meetings Held 04 Number of CDF Sensetisation Meetings held 05 Number of monthly expenditure returns produced 06 Proportion CDF implemented projects branded|50181112100.0|Expenditure
+LUS-FIN-053|Lusangazi Town Council|2024|300 300|Pupils and Students Accessing Bursaries Sponsored 01 Number of Secondary School learners Sponsored 02 Number of Skill Development Learners Sponsored|200400.0|Revenue
