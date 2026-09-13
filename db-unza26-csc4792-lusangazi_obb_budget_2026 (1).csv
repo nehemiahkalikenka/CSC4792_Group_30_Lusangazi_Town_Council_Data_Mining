@@ -1,0 +1,80 @@
+record_type|financial_year|revenue_section|section_code|category_code|description|amount|amount_2027|amount_2028|revenue_or_expenditure|source_doc|amount_2024|amount_2025
+revenue|2026|Local taxes/rates|1.0|1|Personal levy|8925.0|9639.0|10410.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|2|Survey fees|55000.0|59400.0|64152.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|4|Plan scrutiny fee|1500.0|1620.0|1750.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|7|Rentals/lease of Council’s properties|174000.0|187920.0|202954.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|8|Non-Land Application forms fees|69925.0|75519.0|81561.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|10|Sketch plan|12500.0|13500.0|14580.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|12|Notice board advert fees|1040.0|1123.0|1213.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|13|Market fees|20000.0|21600.0|23328.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|17|Affidavit fees|7000.0|7560.0|8165.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|20|Hire of halls|12000.0|12960.0|13997.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|32|Hire of plant and equipment|580000.0|626400.0|676512.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|45|Notice of marriage fees|1250.0|1350.0|1458.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|46|Abattoir/meat inspection fees|500.0|540.0|583.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|47|Registration of clubs and societies|41000.0|44280.0|47822.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|51|Farm produce Fee|150000.0|162000.0|174960.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|66|Penalties|49500.0|53460.0|57737.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|82|Telecommunication site rentals|65000.0|70200.0|75816.0|Revenue|doc_1.pdf||
+revenue|2026|Fees and Charges|2.0|99|Other fees and charges|155000.0|167400.0|180792.0|Revenue|doc_1.pdf||
+revenue|2026|Licenses|3.0|2|Liquor licence|7690.0|8305.0|8970.0|Revenue|doc_1.pdf||
+revenue|2026|Licenses|3.0|3|Firearm and ammunition licence|18000.0|19440.0|20995.0|Revenue|doc_1.pdf||
+revenue|2026|Licenses|3.0|99|Other Licences|1250.0|1350.0|1458.0|Revenue|doc_1.pdf||
+revenue|2026|Levies|4.0|1|Livestock Movement levy|10675.0|11529.0|12451.0|Revenue|doc_1.pdf||
+revenue|2026|Levies|4.0|2|Birds levy|100.0|108.0|117.0|Revenue|doc_1.pdf||
+revenue|2026|Levies|4.0|5|Charcoal levy|3000.0|3240.0|3499.0|Revenue|doc_1.pdf||
+revenue|2026|Levies|4.0|6|Sand levy|1050.0|1134.0|1225.0|Revenue|doc_1.pdf||
+revenue|2026|Levies|4.0|8|Quarry levy|15000.0|16200.0|17496.0|Revenue|doc_1.pdf||
+revenue|2026|Levies|4.0|9|Bicycle levy|31539.0|34062.0|36787.0|Revenue|doc_1.pdf||
+revenue|2026|Levies|4.0|99|Other levies|9550.0|10314.0|11139.0|Revenue|doc_1.pdf||
+revenue|2026|Permits|5.0|1|Health permits|35000.0|37800.0|40824.0|Revenue|doc_1.pdf||
+revenue|2026|Permits|5.0|3|Herbalist permit|5000.0|5400.0|5832.0|Revenue|doc_1.pdf||
+revenue|2026|Permits|5.0|6|Transportation of opaque beer|30000.0|32400.0|34992.0|Revenue|doc_1.pdf||
+revenue|2026|Permits|5.0|9|Fire certificate|30680.0|33134.0|35785.0|Revenue|doc_1.pdf||
+revenue|2026|Permits|5.0|10|Extension of Business hours permits|4000.0|4320.0|4666.0|Revenue|doc_1.pdf||
+revenue|2026|Permits|5.0|11|Social gathering permit|1500.0|1620.0|1750.0|Revenue|doc_1.pdf||
+revenue|2026|Charges|6.0|1|Service Charges Residential plots|200000.0|216000.0|233280.0|Revenue|doc_1.pdf||
+revenue|2026|Charges|6.0|2|Service Charges Industrial plots|40000.0|43200.0|46656.0|Revenue|doc_1.pdf||
+revenue|2026|Charges|6.0|3|Premium Plot- Residential|235000.0|253800.0|274104.0|Revenue|doc_1.pdf||
+revenue|2026|Charges|6.0|4|Premium Plot Commercial|30000.0|32400.0|34992.0|Revenue|doc_1.pdf||
+revenue|2026|Charges|6.0|99|Land Charges|50000.0|54000.0|58320.0|Revenue|doc_1.pdf||
+revenue|2026|Other Incomes|7.0|99|Other Income|1770000.0|1911600.0|2064528.0|Revenue|doc_1.pdf||
+revenue|2026|National Support (Grants)|8.0|1|Constituency Development Fund|40032550.0|43235154.0|46693966.0|Revenue|doc_1.pdf||
+revenue|2026|National Support (Grants)|8.0|2|Roads Grant|6351370.0|6859480.0|7408238.0|Revenue|doc_1.pdf||
+revenue|2026|National Support (Grants)|8.0|3|Health Grant|2028751.0|2191051.0|2366335.0|Revenue|doc_1.pdf||
+revenue|2026|National Support (Grants)|8.0|4|Local Government Equalisation Fund|10701760.0|11557901.0|12482533.0|Revenue|doc_1.pdf||
+revenue|2026|National Support (Grants)|8.0|5|Grants in lieu of Rates|400000.0|432000.0|466560.0|Revenue|doc_1.pdf||
+revenue|2026|National Support (Grants)|8.0|99|Other Grants|25854991.0|27923390.0|30157261.0|Revenue|doc_1.pdf||
+revenue|2026|National Support (Grants)|8.0|200|consumption|0.0|0.0|160.0|Revenue|doc_1.pdf||
+expenditure|2026|Economic Classification||21|Personal Emoluments|10517871.0|||Expenditure|doc_1.pdf|8434297.0|8050193.0
+expenditure|2026|Economic Classification||22|Goods and Services|21279964.0|||Expenditure|doc_1.pdf|11158911.0|11801205.0
+expenditure|2026|Economic Classification||25|Social Assistance Benefits|7889040.0|||Expenditure|doc_1.pdf|0.0|18436155.0
+expenditure|2026|Economic Classification||26|Grants and Other Payments(Transfers)|9605172.0|||Expenditure|doc_1.pdf|8149081.0|9591468.0
+expenditure|2026|Economic Classification||31|Non-Financial Assets|35627675.0|||Expenditure|doc_1.pdf|21670116.0|26329764.0
+expenditure|2026|Economic Classification||32|Financial Assets|4116502.0|||Expenditure|doc_1.pdf|3492463.0|4110629.0
+expenditure|2026|Economic Classification||41|Current Liabilities (Payable within one year)|266371.0|||Expenditure|doc_1.pdf|310000.0|495900.0
+expenditure|2026|Economic Classification||10|Public order and safety|19915.0|||Expenditure|doc_1.pdf|19241.0|19241.0
+expenditure|2026|Economic Classification||11|Management and support Services|1817536.0|||Expenditure|doc_1.pdf|1334888.0|1335888.0
+expenditure|2026|Economic Classification||12|Resource Mobilisation and Management|5316493.0|||Expenditure|doc_1.pdf|4121585.0|3914338.0
+expenditure|2026|Economic Classification||13|District Health Services|907989.0|||Expenditure|doc_1.pdf|689841.0|695841.0
+expenditure|2026|Economic Classification||15|Transport Services|2028751.0|||Expenditure|doc_1.pdf|2315719.0|2382700.0
+expenditure|2026|Economic Classification||16|Agricultural Services|6351370.0|||Expenditure|doc_1.pdf|3200587.0|3742847.0
+expenditure|2026|Economic Classification||17|Fisheries and Livestock|508368.0|||Expenditure|doc_1.pdf|524368.0|0.0
+expenditure|2026|Economic Classification||18|Social Protection and Community Development|503174.0|||Expenditure|doc_1.pdf|488837.0|147702.0
+expenditure|2026|Economic Classification||50|Comemoration events conducted.|0.0|||Expenditure|doc_1.pdf|0.0|100.0
+expenditure|2026|Economic Classification||50|Pest Controlled|0.0|||Expenditure|doc_1.pdf|0.0|500.0
+programme|2026|Programme Allocation|1.0|1|Constituency Development|40032550.0|||Expenditure|doc_1.pdf|36058151.0|30635642.0
+programme|2026|Programme Allocation|2.0|2|Local Governance|3084921.0|||Expenditure|doc_1.pdf|2668208.0|2636843.0
+programme|2026|Programme Allocation|3.0|3|Integrated Development Planning|1450876.0|||Expenditure|doc_1.pdf|820701.0|830151.0
+programme|2026|Programme Allocation|5.0|5|Public health and Environmental protection|1401714.0|||Expenditure|doc_1.pdf|848209.0|756101.0
+programme|2026|Programme Allocation|6.0|6|Housing and Community Amenities|17718175.0|||Expenditure|doc_1.pdf|6022546.0|5688126.0
+programme|2026|Programme Allocation|7.0|7|Recreation Culture and Religion|259310.0|||Expenditure|doc_1.pdf|260345.0|245621.0
+programme|2026|Programme Allocation|8.0|8|Education and skills development|19915.0|||Expenditure|doc_1.pdf|19241.0|19241.0
+programme|2026|Programme Allocation|10.0|10|Public order and safety|1817536.0|||Expenditure|doc_1.pdf|1334888.0|1335888.0
+programme|2026|Programme Allocation|11.0|11|Management and support Services|5316493.0|||Expenditure|doc_1.pdf|4121585.0|3914338.0
+programme|2026|Programme Allocation|12.0|12|Resource Mobilisation and Management|907989.0|||Expenditure|doc_1.pdf|689841.0|695841.0
+programme|2026|Programme Allocation|13.0|13|District Health Services|2028751.0|||Expenditure|doc_1.pdf|2315719.0|2382700.0
+programme|2026|Programme Allocation|15.0|15|Transport Services|6351370.0|||Expenditure|doc_1.pdf|3200587.0|3742847.0
+programme|2026|Programme Allocation|16.0|16|Agricultural Services|508368.0|||Expenditure|doc_1.pdf|524368.0|0.0
+programme|2026|Programme Allocation|17.0|17|Fisheries and Livestock|503174.0|||Expenditure|doc_1.pdf|488837.0|147702.0
+programme|2026|Programme Allocation|18.0|18|Social Protection and Community Development|7901455.0|||Expenditure|doc_1.pdf|19442087.0|183827.0
