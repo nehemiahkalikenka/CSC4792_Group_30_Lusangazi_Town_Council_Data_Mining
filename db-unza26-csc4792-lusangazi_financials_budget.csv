@@ -1,0 +1,97 @@
+financial_id|council_name|financial_year|category_code|description|amount|revenue_or_expenditure|revenue_stream|source_doc
+LUS-FIN-001|Lusangazi Town Council|2016||Personal levy|10410.0|Revenue|Local Taxes / Rates|doc_1.pdf
+LUS-FIN-002|Lusangazi Town Council|2016||Survey fees|64152.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-003|Lusangazi Town Council|2016||Plan scrutiny fee|1750.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-004|Lusangazi Town Council|2016||Rentals/lease of Council’s properties|202954.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-005|Lusangazi Town Council|2016||Non-Land Application forms fees|81561.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-006|Lusangazi Town Council|2016||Sketch plan|14580.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-007|Lusangazi Town Council|2016||Notice board advert fees|1213.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-008|Lusangazi Town Council|2016||Market fees|23328.0|Revenue|Market Fees|doc_1.pdf
+LUS-FIN-009|Lusangazi Town Council|2016||Affidavit fees|8165.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-010|Lusangazi Town Council|2016||Hire of halls|13997.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-011|Lusangazi Town Council|2016||Hire of plant and equipment|676512.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-012|Lusangazi Town Council|2016||Notice of marriage fees|1458.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-013|Lusangazi Town Council|2016||Abattoir/meat inspection fees|583.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-014|Lusangazi Town Council|2016||Registration of clubs and societies|47822.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-015|Lusangazi Town Council|2016||Farm produce Fee|174960.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-016|Lusangazi Town Council|2016||Penalties|57737.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-017|Lusangazi Town Council|2016||Telecommunication site rentals|75816.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-018|Lusangazi Town Council|2016||Other fees and charges|180792.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-019|Lusangazi Town Council|2016||Liquor licence|8970.0|Revenue|Licences & Permits|doc_1.pdf
+LUS-FIN-020|Lusangazi Town Council|2016||Firearm and ammunition licence|20995.0|Revenue|Licences & Permits|doc_1.pdf
+LUS-FIN-021|Lusangazi Town Council|2016||Other Licences|1458.0|Revenue|Licences & Permits|doc_1.pdf
+LUS-FIN-022|Lusangazi Town Council|2016||Livestock Movement levy|12451.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-023|Lusangazi Town Council|2016||Birds levy|117.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-024|Lusangazi Town Council|2016||Charcoal levy|3499.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-025|Lusangazi Town Council|2016||Sand levy|1225.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-026|Lusangazi Town Council|2016||Quarry levy|17496.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-027|Lusangazi Town Council|2016||Bicycle levy|36787.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-028|Lusangazi Town Council|2016||Other levies|11139.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-029|Lusangazi Town Council|2016||Health permits|40824.0|Revenue|Licences & Permits|doc_1.pdf
+LUS-FIN-030|Lusangazi Town Council|2016||Herbalist permit|5832.0|Revenue|Licences & Permits|doc_1.pdf
+LUS-FIN-031|Lusangazi Town Council|2016||Transportation of opaque beer|34992.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-032|Lusangazi Town Council|2016||Fire certificate|35785.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-033|Lusangazi Town Council|2016||Extension of Business hours permits|4666.0|Revenue|Licences & Permits|doc_1.pdf
+LUS-FIN-034|Lusangazi Town Council|2016||Social gathering permit|1750.0|Revenue|Licences & Permits|doc_1.pdf
+LUS-FIN-035|Lusangazi Town Council|2016||Service Charges Residential plots|233280.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-036|Lusangazi Town Council|2016||Service Charges Industrial plots|46656.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-037|Lusangazi Town Council|2016||Premium Plot- Residential|274104.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-038|Lusangazi Town Council|2016||Premium Plot Commercial|34992.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-039|Lusangazi Town Council|2016||Land Charges|58320.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-040|Lusangazi Town Council|2016||Other Income|2064528.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-041|Lusangazi Town Council|2016||Constituency Development Fund|46693966.0|Revenue|CDF Grant|doc_1.pdf
+LUS-FIN-042|Lusangazi Town Council|2016||Roads Grant|7408238.0|Revenue|Other Central Transfers|doc_1.pdf
+LUS-FIN-043|Lusangazi Town Council|2016||Health Grant|2366335.0|Revenue|Other Central Transfers|doc_1.pdf
+LUS-FIN-044|Lusangazi Town Council|2016||Local Government Equalisation Fund|12482533.0|Revenue|LGEF / Equalisation Fund|doc_1.pdf
+LUS-FIN-045|Lusangazi Town Council|2016||Grants in lieu of Rates|466560.0|Revenue|Other Central Transfers|doc_1.pdf
+LUS-FIN-046|Lusangazi Town Council|2016||Other Grants|30157261.0|Revenue|Other Central Transfers|doc_1.pdf
+LUS-FIN-047|Lusangazi Town Council|2016||Constituency Development Local Governance Integrated Development Planning Public health and Environmental protection Housing and Community Amenities Recreation Culture and Religion Education and skills development Public order and safety Management and support Services Resource Mobilisation and Management District Health servcies Transport Services Agricultural Services Fisheries and Livestock Social Protection and Community Development|30635642.0|Revenue|CDF Grant|doc_1.pdf
+LUS-FIN-048|Lusangazi Town Council|2016||- - - - - - -|1802908.0|Expenditure||doc_1.pdf
+LUS-FIN-049|Lusangazi Town Council|2016||Community Projects Implemented 01 Number of Solar Water borehole constructed 02 Number of Desks procured 03 Number of Kilometer roads graded 04 Number of maternity suite constructed 05 Number of boreholes rehabilitated 06 Number of classroom blocks rehabilitated 07 Number of classroom blocks constructed 08 Number of Health-Posts constructed|600.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-050|Lusangazi Town Council|2016||Youth and Women Empowered 01 Number of youth clubs accessed empowerment grants 02 Number of youth clubs accessed empowerment loans 03 Number of women clubs accessed empowerment loans 04 Number of women accessed empowerment grants 05 Number of community clubs accessed empowerment loans 06 Number of community clubs accessed empowerment grants|152.0|Revenue|Other Central Transfers|doc_1.pdf
+LUS-FIN-051|Lusangazi Town Council|2016||- - - - - - -|1278004.0|Expenditure||doc_1.pdf
+LUS-FIN-052|Lusangazi Town Council|2016||(0) (0)|344592.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-053|Lusangazi Town Council|2016||channelled to financial assets such as CDF empowerment component and the remaining, K|266000.0|Revenue|CDF Grant|doc_1.pdf
+LUS-FIN-054|Lusangazi Town Council|2016||and crossings points rehabilitation), Recreation/Culture (K|259000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-055|Lusangazi Town Council|2016||Education (K|19915.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-056|Lusangazi Town Council|2016||Resource Mobilisation (K|907000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-057|Lusangazi Town Council|2016||maintenance), Agriculture (K|508000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-058|Lusangazi Town Council|2016||Fisheries/Livestock (K|503000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-059|Lusangazi Town Council|2016||Protection (K|33000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-060|Lusangazi Town Council|2016||has been allocated K|996000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-061|Lusangazi Town Council|2016||to procure furniture under assets for the officers under this program amounting to K|104000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-062|Lusangazi Town Council|2016||sections of Planning Department. A total amount of K|300000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-063|Lusangazi Town Council|2016||The remaining allocation of K|250000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-064|Lusangazi Town Council|2016||The total amount allocated for this program is K1.4 ,of which K|900000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-065|Lusangazi Town Council|2016||sub-programme has been allocated K|240000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-066|Lusangazi Town Council|2016||food to promote public health and pest control has been allocated the total of K|71000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-067|Lusangazi Town Council|2016||certain areas in the district. Further, K|68000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-068|Lusangazi Town Council|2016||staff under Engineering department. Further, K|740000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-069|Lusangazi Town Council|2016||been allocated a total of K|259000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-070|Lusangazi Town Council|2016||20,000 is going towards the purchase of computer for data capture purposes under this programme.|20000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-071|Lusangazi Town Council|2016||The programme budget allocated by the sub programme has been allocated a total of K|259000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-072|Lusangazi Town Council|2016||community development has been allocated K|258000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-073|Lusangazi Town Council|2016||The Education and Skills development programme has been allocated K|19915.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-074|Lusangazi Town Council|2016||well as  5 fire fighters, and the remaining fund of K|173000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-075|Lusangazi Town Council|2016||out drills by the fire fighter officers and council police officers while K|550000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-076|Lusangazi Town Council|2016||of goods and services. Further, the council within the same budgeted amount has allocated K|170000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-077|Lusangazi Town Council|2016||liabilities has been allocated K|266000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-078|Lusangazi Town Council|2016||for executive assignments and procurement has been allocated K|261000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-079|Lusangazi Town Council|2016||Communication and Technology has been allocated  K|317000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-080|Lusangazi Town Council|2016||programme is allocated K|907000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-081|Lusangazi Town Council|2016||total amount of K|907000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-082|Lusangazi Town Council|2016||Under Asset acquisation the Lusangazi Town council under health services has allocated K|7000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-083|Lusangazi Town Council|2016||District health coordination has been allocated an amount of K|372000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-084|Lusangazi Town Council|2016||,Agri Business & marketing taking up K|60000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-085|Lusangazi Town Council|2016||amounting to K|508000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-086|Lusangazi Town Council|2016||cordination at K|90000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-087|Lusangazi Town Council|2016||been allocated a total sum of K|503000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-088|Lusangazi Town Council|2016||management and coordination services.Whereas K|49000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-089|Lusangazi Town Council|2016||The programme budget allocation by subprogramme stands at K|503000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-090|Lusangazi Town Council|2016||shows costing K|116000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-091|Lusangazi Town Council|2016||treament of animals,issuace of slaughter and livestock movements permits amounting to K|103000.0|Revenue|Licences & Permits|doc_1.pdf
+LUS-FIN-092|Lusangazi Town Council|2016||supervision and backstopping, patrols and issuing of permits and fish licences costing K|73000.0|Revenue|Licences & Permits|doc_1.pdf
+LUS-FIN-093|Lusangazi Town Council|2016||operations   and Audits monitoring and backstoping costing K|134000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-094|Lusangazi Town Council|2016||conduct field days, trainings, demonstrations and community engagement amounting to K|75000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-095|Lusangazi Town Council|2016||Development Programme has been allocated  K|33000.0|Revenue|Other / Unclassified|doc_1.pdf
+LUS-FIN-096|Lusangazi Town Council|2022||translates to K|6433695.67|Revenue|Other / Unclassified|doc_46.pdf
