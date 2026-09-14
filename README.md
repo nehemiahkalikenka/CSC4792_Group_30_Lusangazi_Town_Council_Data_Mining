@@ -28,7 +28,7 @@ The project curates four primary pipe-delimited CSV datasets:
 
 ## Links & Project Deliverables
 
-* **Google Colab Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nehemiahkalikenka/CSC4792_Group_30_Lusangazi_Town_Council_Data_Mining/blob/main/CSC4792-Group-30-Lusangazi-Town-Council-Data-Mining.ipynb)
+* **Google Colab Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iBXzkva1qGlM0crVR8snMAdiUMCgAR6t?usp=sharing)
 * **Kaggle Public Dataset:** [Lusangazi Town Council Dataset on Kaggle](https://www.kaggle.com/datasets/gubasiachalinga/lusangazi-town-council-dataset)
 
 
